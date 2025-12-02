@@ -16,7 +16,7 @@ body{
 .site-header{
     text-align:center;
     padding:4rem 1rem 3rem;
-    background: rgba(255,255,255,.45);
+    background: rgba(246, 113, 113, 0.45);
     backdrop-filter: blur(10px);
     border-radius: 0 0 40px 40px;
     box-shadow: 0 8px 32px rgba(0,0,0,.08);
@@ -33,7 +33,7 @@ body{
     max-width:700px;
     margin:0 auto 2rem;
     font-size:1.05rem;
-    color:#5d4037;
+    color:#242120ad;
 }
 details{
     display:inline-block;
@@ -60,7 +60,7 @@ details a:hover{
     text-decoration:underline;
 }
 
-/* ---------- MAIN ---------- */
+
 .content{
     display:flex;
     flex-wrap:wrap;
@@ -71,7 +71,7 @@ details a:hover{
 section{
     flex:1 1 320px;
     max-width:360px;
-    background: rgba(255,255,255,.55);
+    background: rgba(241, 191, 174, 0.86);
     backdrop-filter: blur(8px);
     border-radius:25px;
     padding:2rem;
@@ -96,7 +96,7 @@ section a{
     display:inline-block;
     margin-top:1rem;
     padding:.7rem 1.5rem;
-    background: linear-gradient(90deg, #8d6e63 0%, #bf360c 100%);
+    background: linear-gradient(90deg, #d76e4c 0%, #a02e0b 100%);
     color:#fff;
     border-radius:25px;
     text-decoration:none;
@@ -112,7 +112,7 @@ section a:hover{
 footer{
     text-align:center;
     padding:2.5rem 1rem;
-    background: rgba(255,255,255,.4);
+    background: rgba(241, 192, 138, 0.742);
     backdrop-filter: blur(10px);
     border-radius:40px 40px 0 0;
     box-shadow:0 -8px 32px rgba(0,0,0,.08);
