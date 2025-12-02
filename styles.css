@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;  
+   margin:0;
+  
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.rem;
+    background: rgb(217, 187, 156);
+    color: rgb(0, 0, 0);
+}
+
+.site-header{
+    background: linear-gradient(90deg, #c38c71,#6c232382);
+    color: rgb(0, 0, 0);
+    padding: 1rem;
+    text-align: center;
+}
+.site-header h1 {
+    margin-bottom:2rem;
+    color: rgb(5, 4, 2);
+      font-size: 80px;
+}
+.site-header p {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    line-height: 1rem;
+    font-size: 18px;
+}
+.site-header button{
+     
+    padding: 0.5rem 0.5rem ;
+    background: #ddcdc2;
+    border-radius: 10px;
+    color: rgb(0, 0, 0); 
+    margin: 1.5px;
+    text-align: center;
+      display: flex;
+ 
+  
+   
+    
+}
+
+.foto1 { 
+  width:500px ;
+    margin: 20px;
+ border-radius: 50px;
+                     
+}
+ 
+.foto2 { 
+  width:300px;
+   margin: 20px;  
+   border-radius: 50px;            
+}
+
+.card h1{
+margin-bottom:1rem;
+    color: rgb(96, 53, 8);
+      font-size: 45px;
+       margin: 10px;
+}
+.card2 h2{ 
+    margin-bottom: 1rem;
+    color: rgb(74, 37, 7);
+     font-size: 45px;
+}
+.card2 p{ 
+    margin-bottom: 1rem;
+    color: rgb(0, 0, 0);
+     line-height: 1.5rem;
+     font-size: 18px;
+     margin: 10px;
+} 
+.card p{
+    margin-bottom: 1rem;
+    color: rgb(0, 0, 0);
+     line-height: 1.5rem;
+     font-size: 18px;
+     margin: 10px;
+
+}
+.btn{
+    display: inline-block;
+    padding: 0.6rem 1.rem ;
+    background: #ca743639;
+    border-radius: 5px;
+    color: rgb(137, 8, 8);
+    justify-content: center;
+    line-height: 1rem;
+    margin: 10px;
+}
+
+.site-footer{
+    text-align: center;
+    margin: 12rem;
+    color: rgb(21, 51, 56);
+    line-height: 2rem;
+    font-size: 18px;
+    
+}
+body {
+  background: radial-gradient(circle at 20% 30%, #e2eaa1 0%, transparent 50%),
+              radial-gradient(circle at 80% 60%, #904cef 0%, transparent 50%),
+              radial-gradient(circle at 50% 90%, #66da85 0%, transparent 50%);
+}
